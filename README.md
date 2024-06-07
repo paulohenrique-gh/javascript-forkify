@@ -13,7 +13,7 @@ npm install
 and then
 
 ```shell
-npm run
+npm start
 ```
 
 Deploy: https://forkify-june.netlify.app
